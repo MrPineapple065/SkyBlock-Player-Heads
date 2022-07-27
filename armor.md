@@ -10,12 +10,12 @@
 | Bat Person              | a83b3f04fc16bc2c2cb36a12044265b0b933f3dfa2b342eb45798ff7d715b0d8 |
 | Berserker               | Not Acquired                                                     |
 | Blaze                   | b96ff145ea18d61601518c646bae678f5fde096cf0360ec36cadac41425534e  |
-| Bronze Hunter           | Not Acquired                                                     |
+| Bronze Hunter           | N/A                                                              |
 | Cactus                  | N/A                                                              |
 | Celeste                 | N/A                                                              |
 | Cheap Tuxedo            | N/A                                                              |
 | Crystal                 | N/A                                                              |
-| Diamond Hunter          | Not Acquired                                                     |
+| Diamond Hunter          | N/A                                                              |
 | Diver's                 | 17830c1d82845c91b83429f9dc597317841538e14d4fbed61ae1a3b0eb7ccd   |
 | Elegant Tuxedo          | N/A                                                              |
 | Ember                   | 38d199e23c17488a01a07005a41fe330b1d22b04e99943c9f8c897d156e9555a |
@@ -29,7 +29,7 @@
 | Frozen Blaze            | 55a13bb48e3595b55de8dd6943fc38db5235371278c695bd453e49a0999      |
 | Glacite                 | N/A                                                              |
 | Goblin                  | 4bf56c6541c1266ffc463510bdb55aef9315af548898cf5d3cba1b5b4c01     |
-| Gold Hunter             | Not Acquired                                                     |
+| Gold Hunter             | N/A                                                              |
 | Golem Armor             | N/A                                                              |
 | Great Spook Armor       | N/A                                                              |
 | Hardened Diamond        | N/A                                                              |
@@ -56,7 +56,7 @@
 | Salmon                  | N/A                                                              |
 | Shark Scale             | 390116da514a73ddd9295491852adc588007f2acd7de269788a2128d8e4a764b |
 | Shimmering Light        | 764b352f87e7b52291079c12061010f3f53cf15bfb9ce02f647bdf846a5afb4c |
-| Silver Hunter           | Not Acquired                                                     |
+| Silver Hunter           | N/A                                                              |
 | Snow Suit               | 13229f8525726684fb0227dad7621f05f0b8b5d58a8693fd0ea0688349f1d53c |
 | Sorrow                  | N/A                                                              |
 | Speedster               | N/A                                                              |
